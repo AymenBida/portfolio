@@ -54,7 +54,11 @@ a {
 }
 
 .navbar__link {
+  color: var(--clr-dark);
   font-weight: 600;
+  &:hover {
+    color: var(--clr-inter);
+  }
 }
 
 .main {
