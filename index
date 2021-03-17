@@ -27,11 +27,11 @@
           experience! If you like what you see and have a project you need coded,
           don’t hesitate to contact me.</p>
         <ul class="cover__social">
-          <li class="cover__icon"><a href="https://www.linkedin.com/in/aymenbida/" class="cover__link"><i
+          <li class="cover__icon"><a href="https://www.linkedin.com/in/aymenbida/" target="_blank" class="cover__link"><i
                 class="fab fa-linkedin-in"></i></a></li>
-          <li class="cover__icon"><a href="https://github.com/AymenBida" class="cover__link"><i
+          <li class="cover__icon"><a href="https://github.com/AymenBida" target="_blank" class="cover__link"><i
                 class="fab fa-github"></i></a></li>
-          <li class="cover__icon"><a href="https://twitter.com/AymenBida" class="cover__link"><i
+          <li class="cover__icon"><a href="https://twitter.com/AymenBida" target="_blank" class="cover__link"><i
                 class="fab fa-twitter"></i></a></li>
         </ul>
         <a href="#projects" class="cover__action"><i class="fas fa-chevron-down"></i></a>
@@ -52,9 +52,9 @@
             <li class="project__tag">SASS</li>
           </ul>
           <ul class="project__buttons">
-            <li class="project__button"><a href="https://blooming-beyond-18904.herokuapp.com/" class="project__link">Try
+            <li class="project__button"><a href="https://blooming-beyond-18904.herokuapp.com/" target="_blank" class="project__link">Try
                 it</a></li>
-            <li class="project__button"><a href="https://github.com/AymenBida/Tech-articles/"
+            <li class="project__button"><a href="https://github.com/AymenBida/Tech-articles/" target="_blank"
                 class="project__link">Github</a></li>
           </ul>
         </div>
@@ -72,9 +72,9 @@
             <li class="project__tag">Bootstrap</li>
           </ul>
           <ul class="project__buttons">
-            <li class="project__button"><a href="https://aymenbida.github.io/Directory-of-Musicians/"
+            <li class="project__button"><a href="https://aymenbida.github.io/Directory-of-Musicians/" target="_blank"
                 class="project__link">Try it</a></li>
-            <li class="project__button"><a href="https://github.com/AymenBida/Directory-of-Musicians"
+            <li class="project__button"><a href="https://github.com/AymenBida/Directory-of-Musicians" target="_blank"
                 class="project__link">Github</a></li>
           </ul>
         </div>
@@ -91,9 +91,9 @@
             <li class="project__tag">CSS</li>
           </ul>
           <ul class="project__buttons">
-            <li class="project__button"><a href="https://necmigunduz.github.io/tnw-cloning-project/"
+            <li class="project__button"><a href="https://necmigunduz.github.io/tnw-cloning-project/" target="_blank"
                 class="project__link">Try it</a></li>
-            <li class="project__button"><a href="https://github.com/necmigunduz/tnw-cloning-project"
+            <li class="project__button"><a href="https://github.com/necmigunduz/tnw-cloning-project" target="_blank"
                 class="project__link">Github</a></li>
           </ul>
         </div>
@@ -139,11 +139,11 @@
   </div>
   <footer class="footer">
     <ul class="footer__list">
-      <li class="footer__icon"><a href="https://www.linkedin.com/in/aymenbida/" class="footer__link"><i
+      <li class="footer__icon"><a href="https://www.linkedin.com/in/aymenbida/" target="_blank" class="footer__link"><i
             class="fab fa-linkedin-in"></i></a></li>
-      <li class="footer__icon"><a href="https://github.com/AymenBida" class="footer__link"><i
+      <li class="footer__icon"><a href="https://github.com/AymenBida" target="_blank" class="footer__link"><i
             class="fab fa-github"></i></a></li>
-      <li class="footer__icon"><a href="https://twitter.com/AymenBida" class="footer__link"><i
+      <li class="footer__icon"><a href="https://twitter.com/AymenBida" target="_blank" class="footer__link"><i
             class="fab fa-twitter"></i></a></li>
     </ul>
   </footer>
